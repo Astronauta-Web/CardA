@@ -1,0 +1,37 @@
+body {
+  background-color: #F8EDE3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: monospace;
+}
+
+div {
+  background-color: #DFD3C3;
+  width: 325px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 6px 4px #888888;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+h2 {
+  text-shadow: 1px 1px 2px;
+  font-size: 32px;
+  letter-spacing: 2px;
+}
+
+
+img {
+  height: 200px;
+  border-radius: 20px;
+}
+
+
+
